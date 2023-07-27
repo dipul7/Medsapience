@@ -357,13 +357,16 @@ a.navbar-brand {
 	left: 35px;
 	position: relative;
 }
+.logo_image{
+	height: 90px;
+}
 
 .top-header .navbar .navbar-collapse ul li a.active {}
 
 .top-header .navbar .navbar-collapse ul li a:hover,
 .top-header .navbar .navbar-collapse ul li a:focus {
 	background: transparent;
-	color: #f2184f;
+	color: #09A8FA;
 }
 
 .search_icon.nav-link img {
@@ -389,7 +392,7 @@ a.navbar-brand {
 }
 
 .navbar-toggler {
-	border: 2px solid #f43866;
+	border: 2px solid #09A8FA;
 	border-radius: 0;
 	margin: 15px 15px;
 	padding: 8px 8px;
@@ -400,7 +403,7 @@ a.navbar-brand {
 }
 
 .navbar-toggler span {
-	background: #f43866;
+	background: #09A8FA;
 	display: block;
 	width: 22px;
 	height: 2px;
@@ -421,11 +424,11 @@ a.navbar-brand {
 }
 
 .navbar-toggler:hover {
-	border: 2px solid #f43866;
+	border: 2px solid #09A8FA;
 }
 
 .navbar-toggler:hover span {
-	background: #f43866;
+	background: #09A8FA;
 }
 
 
@@ -476,7 +479,7 @@ a.navbar-brand {
 }
 
 .theme_color {
-	color: #f2184f;
+	color: #79DC96;
 }
 
 
@@ -573,7 +576,7 @@ a.navbar-brand {
 }
 
 .pogoSlider-nav-btn--selected {
-	background: #f2184f !important;
+	background: #09A8FA !important;
 }
 
 .pogoSlider--navBottom .pogoSlider-nav {
@@ -605,7 +608,7 @@ a.navbar-brand {
 }
 
 .slide_text p {
-    color: #f2184f;
+    color: #79DC96;
     font-size: 20px;
     font-weight: 300;
     padding-top: 0;
@@ -616,7 +619,7 @@ a.navbar-brand {
 .contact_bt {
     width: 180px;
     height: 50px;
-    background: #f2184f;
+    background: #09A8FA;
     color: #fff;
     float: left;
     line-height: 50px;
@@ -794,7 +797,7 @@ a.navbar-brand {
 	left: 0;
 	right: 0;
 	bottom: 0;
-	background: #f43866;
+	background: #09A8FA;
 	border-radius: 100%;
 	-webkit-transform: scale(0);
 	transform: scale(0);
@@ -1212,7 +1215,7 @@ figure.effect-service:hover {
 /*------------------------------------------------------------------ counter ----------------------------------------------------------------*/
 
 h2.timer.count-title.count-number {
-    color: #f43866;
+    color: #09A8FA;
     font-size: 60px;
     font-weight: 600;
     margin: 0;
@@ -1221,7 +1224,7 @@ h2.timer.count-title.count-number {
 }
 
 p.count-text {
-    color: #f43866;
+    color: #09A8FA;
     font-size: 22px;
     font-weight: 600;
     line-height: 20px;
@@ -1475,7 +1478,7 @@ p.count-text {
 	margin-right: 15px;
 	color: #fff;
 	border-radius: 100%;
-	background: #f2184f;
+	background: #09A8FA;
 }
 
 .dit-right h4 {
@@ -1518,7 +1521,7 @@ p.count-text {
 }
 
 .submit-button .btn-common {
-	background-color: #f2184f;
+	background-color: #09A8FA;
 	height: 45px;
 	line-height: 45px;
 	font-size: 14px;
@@ -1785,7 +1788,7 @@ h3.small_heading {
 }
 
 .carousel a.carousel-control-prev {
-    background: #f43866;
+    background: #09A8FA;
     opacity: 1;
     width: 50px;
     height: 50px;
@@ -1795,7 +1798,7 @@ h3.small_heading {
 }
 
 .carousel a.carousel-control-next {
-	background: #f43866;
+	background: #09A8FA;
 	opacity: 1;
 	width: 50px;
 	height: 50px;
@@ -1894,7 +1897,7 @@ ul.social_icon li {
 }
 
 .newsletter_form button {
-    background: #f43866;
+    background: #09A8FA;
     color: #fff;
     border: none;
     font-size: 14px;
